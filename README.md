@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aftnoontea
 - 👀 I’m interested in Linux.
 - 🌱 I’m currently learning AWS.
-- 💞️ I’m looking to collaborate on "Embeded System".
+- 💞️ I’m looking to collaborate on OSS related to embedded systems
 - 📫 How to reach me @afternoonteeee (by Twitter).
 
 <!---
