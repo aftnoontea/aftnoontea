@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aftnoontea
 - 👀 I’m interested in Linux.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning AWS and Azure IoT.
 - 💞️ I’m looking to collaborate on OSS related to embedded systems
-- 📫 How to reach me @afternoonteeee (by Twitter).
 
 <!---
 aftnoontea/aftnoontea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
