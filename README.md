@@ -1,5 +1,5 @@
 - 👋 Hello everyone, this is aftnoontea.
-- 👀 I'm an embedded firmware developer.
+- 👨‍⚕️ I'm an embedded firmware developer.
 - 🌱 I’m currently learning AWS IoT and Azure IoT.
 - 💞️ I’m looking to collaborate on OSS related to embedded system.
 
