@@ -1,5 +1,5 @@
 - 👋 Hello everyone, this is aftnoontea.
-- 👨‍⚕️ My job is as an architect of embedded devices.
+- 👨‍⚕️ My job is as an software developper of embedded devices.
 - 🌱 I’m currently learning AWS IoT and Azure IoT.
 - 💞️ I’m looking to collaborate on OSS related to embedded system.
 
