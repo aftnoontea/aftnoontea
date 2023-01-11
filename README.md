@@ -1,6 +1,6 @@
 ## 👋 Hello, this is Aftnoontea.
 - 👨‍⚕️ My job is as an software developper of embedded devices.
-- 🌱 I’m currently learning AWS IoT and Azure IoT. (...and unit test.)
+- 🌱 I’m currently learning AWS IoT and Azure IoT. (...and unit test)
 - 💞️ I’m looking to collaborate on OSS related to embedded system.
 
 <!---
