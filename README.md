@@ -1,5 +1,5 @@
 ## 👋 Hello, this is Aftnoontea
-- 👨‍⚕️ My job is as an software developper of embedded devices.
+- 👨‍⚕️ I'm an software developper of embedded devices.
 - 🌱 I’m currently learning AWS IoT and Azure IoT. (...and unit test, googletest, gdb)
 
 <!---
