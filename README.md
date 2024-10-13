@@ -6,9 +6,6 @@
 - 👨‍⚕️ 私は組込み機器のソフトウェア開発者です。
 - 🌱 最近は産業用ネットワークに興味があります。（たとえば、Ethernet/IPやIO-Linkなど）
 
-## 頻繁に更新しているリポジトリ
-[write-code-everyday-bot](https://github.com/aftnoontea/write-code-everyday-bot "write-code-everyday-bot")
-
 <!---
 aftnoontea/aftnoontea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
